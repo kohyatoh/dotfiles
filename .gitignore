@@ -2,5 +2,7 @@
 /.*
 
 !/.gitignore
+
+!/.env.sh
 !/.vimrc
 !/bin
