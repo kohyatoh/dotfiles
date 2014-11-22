@@ -6,3 +6,5 @@ set_ps1() {
 }
 set_ps1
 HISTTIMEFORMAT='%y/%m/%d %H:%M:%S '
+
+alias gclip='xclip -selection clipboard'
